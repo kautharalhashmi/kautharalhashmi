@@ -45,23 +45,6 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-ec97b1?style=for-the-badge&logo=.net&logoColor=white)
 
 
-## 💼 Professional Experience
-
-### 🚀 Full Stack Web Developer Trainee
-**Makeen Bootcamp, Code Academy** | *April 2025 - Aug 2025*
-- Completed intensive training in full-stack web development
-- Built real-world projects using ASP.NET MVC with Clean Architecture
-- Worked with Git, MS SQL Server, LINQ, and Entity Framework
-- Gained experience with Docker, PHP, and freelancing tools
-- Improved soft skills and client communication
-
-### 🖥️ Help Desk Technician
-**Ministry of Agriculture, Fisheries and Water Resources** | *March - May 2024*
-- Provided technical support and resolved hardware/software issues
-- Configured devices and ensured network connectivity
-- Collaborated with staff across departments
-- Gained hands-on experience with IT infrastructure
-
 ## 🎓 Education & Certifications
 
 ### 📚 Bachelor of Software Engineering
