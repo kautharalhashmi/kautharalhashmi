@@ -10,7 +10,6 @@
 
 - 🎓 **Software Engineering Graduate** from University of Technology and Applied Sciences 
 - 💻 **Full Stack Developer** specializing in modern web technologies
-- 🌱 Currently working as **Full Stack Web Developer Trainee** at Makeen Bootcamp, Code Academy
 - 🔭 Building real-world projects with **ASP.NET MVC**, **Angular**, **React.js**, and **Flutter**
 - 💡 Passionate about **clean architecture** and **solving complex problems**
 - 🌍 Based in **Muscat, Oman**
@@ -31,11 +30,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-ec97b1?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ec97b1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ec97b1?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-ec97b1?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ### Backend & Database
 ![.NET](https://img.shields.io/badge/.NET-ec97b1?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-ec97b1?style=for-the-badge&logo=node.js&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-ec97b1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-ec97b1?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -50,7 +48,7 @@
 ## 💼 Professional Experience
 
 ### 🚀 Full Stack Web Developer Trainee
-**Makeen Bootcamp, Code Academy** | *April 2025 - Present*
+**Makeen Bootcamp, Code Academy** | *April 2025 - Aug 2025*
 - Completed intensive training in full-stack web development
 - Built real-world projects using ASP.NET MVC with Clean Architecture
 - Worked with Git, MS SQL Server, LINQ, and Entity Framework
