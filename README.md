@@ -11,7 +11,6 @@
 - 🎓 **Software Engineering Graduate** from University of Technology and Applied Sciences 
 - 💻 **Full Stack Developer** specializing in modern web technologies
 - 🔭 Building real-world projects with **ASP.NET MVC**, **Angular**, **React.js**, and **Flutter**
-- 💡 Passionate about **clean architecture** and **solving complex problems**
 - 🌍 Based in **Muscat, Oman**
 - 📫 Reach me at: **kathiialhashmi@gmail.com**
 
